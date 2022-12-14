@@ -27,6 +27,17 @@ a {
   margin: 30px 0;
 }
 
+.display {
+  text-align: center;
+}
+
+button {
+  display: inline-block;
+  margin: 30px 0;
+  border: solid 1px;
+  padding: 20px;
+}
+
 /* --#header----------------------- */
 /* --ハンバーガーメニュー------------ */
 /* --#mainvisual------------------- */

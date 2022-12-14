@@ -1,5 +1,5 @@
 $(function() {
-  $(".display p").click(function() {
-    // console.log('やったね');
+  $("button").click(function() {
+    $("button").css("background-color", "red");
   });
 })
