@@ -1,5 +1,8 @@
 $(function() {
-  $("button").click(function() {
-    $("button").css("background-color", "red");
+
+  $(".display button").click(function() {
+    $("button").css('color', 'blue');
+    // $("button").css('color', 'red');
   });
+
 })
