@@ -7,13 +7,7 @@ html {
 body {
   color: #050507;
   font-size: 1rem;
-  /*font-family: ;*/
 }
-
-/* a {
-  color: #050507;
-  text-decoration: none;
-} */
 
 .display {
   text-align: center;
@@ -36,20 +30,3 @@ footer .copyright {
   text-align: center;
   margin-bottom: 30px;
 }
-
-
-
-/* --#header----------------------- */
-/* --ハンバーガーメニュー------------ */
-/* --#mainvisual------------------- */
-/* --#information------------------ */
-/* --#access----------------------- */
-/* --#contact---------------------- */
-/* --#footer----------------------- */
-/* --レスポンシブ------------------- */
-/* --レスポンシブ#information------- */
-/* --レスポンシブ#access------------ */
-/* --レスポンシブ#contact----------- */
-/* --レスポンシブ#footer------------ */
-
-/* --やることリスト----------------- */
